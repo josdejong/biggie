@@ -2,7 +2,7 @@
   "name": "biggie",
   "version": "0.0.1",
   "description": "A big number library",
-  "main": "dist/biggie.js",
+  "main": "dist/index.js",
   "repository": "https://github.com/josdejong/biggie.git",
   "author": "Jos de Jong <wjosdejong@gmail.com>",
   "license": "MIT",
